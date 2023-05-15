@@ -1,0 +1,8 @@
+# Don't track content of these folders
+Binaries/
+Saved/
+Intermediate/
+Plugins/
+DerivedDataCache/
+Content/NiagaraMagicalSlashes
+Content/MinimalistUIPack
