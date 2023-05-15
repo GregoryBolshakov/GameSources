@@ -24,4 +24,7 @@ The inventory/drop system is simple, you can stack or split items you have, or t
 ![Memoryator Preview  NetMode_ Standalone  (64-bit_SM5) 2023-05-15 19-57-33 (1)](https://github.com/GregoryBolshakov/GameSources/assets/19948668/93713f82-4de4-4bbc-b0d9-1b937f2d9119)
 
 
+Rooarr! The villagers are afraid of us and scatter to their homes. 
 
+
+![Memoryator Preview  NetMode_ Standalone  (64-bit_SM5) 2023-05-15 20-40-08](https://github.com/GregoryBolshakov/GameSources/assets/19948668/26b78e24-0603-4b76-9364-8e64417a9ed6)
